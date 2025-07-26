@@ -1,0 +1,17 @@
+.form-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  form input,
+  form textarea {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
